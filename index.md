@@ -1,37 +1,21 @@
-## Danial
+---
+title: Home
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/danialfaghihi/webpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<div id="twosided">
+<div id="left" style="float: left; max-width: 30%;border: 10px"> 
+    <img src="images/profile.jpg" />
+</div>
+<div id="right" style="float: right; width: 65%; vertical-align: middle;">
+<p> Umberto Villa <br> Research Associate</p>
+<p> Center for Computational Geophysics and Optimization <br> (Director: O. Ghattas) </p>
+<p> <a href="files/UmbertoVilla_cv.pdf">Curriculum vitae </a> </p>
+</div>
+</div>
+<div id="clearer" style="clear: both"> </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danialfaghihi/webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am currently a Research Associate at [The Institute for Computational Engineering and Sciences (ICES)](http://ices.utexas.edu/) of [The University of Texas at Austin](http://utexas.edu/).<br>
+I am a member of the [Center for Computational Oncology]( http://cco.ices.utexas.edu) led by [Dr. Thomas E. Yankeelov]( http://cco.ices.utexas.edu/members/thomas-yankeelov/). Mu current research is focused on multiscale (subcell-tissue) modeling of tumor growth and computational frameworks for data-enabled predictive modeling with applications to multiphase materials deformation and biological growth.
+I joined ICES in January 2013 working with [Prof. J. Tinsley Oden]( https://www.ices.utexas.edu/people/85/) on Bayesian methods for validation of physics-based models of complex materials and biological systems as well as uncertainty quantification and propagation.<br>
+In December 2012, I obtained my Ph.D. in Civil Engineering with specialization in theoretical and computational nonlocal continuum mechanics for modeling microscale metallic systems from [Louisiana State University]( https://www.lsu.edu/), with [Prof. George Z. Voyiadjis]( http://www.lsu.edu/eng/cee/people/voyiadjis.php) serving as my principal advisor.
