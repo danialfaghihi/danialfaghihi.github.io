@@ -20,7 +20,7 @@ My research areas of expertise are
 
 Find me on: [Google Scholar](https://scholar.google.com/citations?user=BAE0ndIAAAAJ&hl=en&oi=ao).
 
-| ![Two-phases flow](images/research/two_phases.png) | ![AMGe](images/research/amge.png) | ![Random field](images/research/random_field.png) |
+| ![Two-phases flow](images/research/dddas.pdf) | ![AMGe](images/research/abm.pdf) | ![Random field](images/research/abm.pdf) |
 | :---: | :---: | :---:|
-|Two-phases porous media flow | Hierarchy of agglomerated meshes for element-based AMG | Gaussian random field with prescribed covariance kernel |
+| DDDAS framework for realtime monitoring and control of material damage | Hybrid agent based-continuum model cancer cell evolution calibrated and validated by in vitro imaging data | Gaussian random field with prescribed covariance kernel |
  
