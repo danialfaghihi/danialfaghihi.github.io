@@ -8,9 +8,9 @@ layout: default
     <img src="images/profile.jpg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> Umberto Villa <br> Research Associate</p>
-<p> Center for Computational Geophysics and Optimization <br> (Director: O. Ghattas) </p>
-<p> <a href="files/UmbertoVilla_cv.pdf">Curriculum vitae </a> </p>
+<p> Danial Faghihi <br> Research Associate</p>
+<p> Center for Computational Oncology <br> (Director: T. Yankeelov) </p>
+<p> <a href="files/DanialFaghihi_cv.pdf">Curriculum vitae </a> </p>
 </div>
 </div>
 <div id="clearer" style="clear: both"> </div>
