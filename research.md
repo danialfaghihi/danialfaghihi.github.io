@@ -20,8 +20,8 @@ My research areas of expertise are
 
 Find me on: [Google Scholar](https://scholar.google.com/citations?user=BAE0ndIAAAAJ&hl=en&oi=ao).
 
-| ![Two-phases flow](images/research/dddas.pdf) | ![AMGe](images/research/abm.pdf) | 
-| DDDAS framework for realtime monitoring and control of material damage | Hybrid agent based-continuum model cancer cell evolution calibrated and validated by in vitro imaging data | 
+| ![AMGe](images/research/abm.pdf) | ![Two-phases flow](images/research/dddas.pdf) | 
+| Hybrid agent based-continuum model cancer cell evolution calibrated and validated by in vitro imaging data| DDDAS framework for realtime monitoring and control of material damage  | 
 | :---: | :---: |
-| ![AMGe](images/research/bulg_SGP.png) |  ![AMGe](images/research/cg_aa.pdf) | 
-| Nonlocal continuum theory to capture size effect in plastic deformation of microscale thin metal film | Coarse-graning of atomistic system: Bayesian model validation with quantified uncertainty | 
+| ![AMGe](images/research/cg_aa.pdf) |  ![AMGe](images/research/bulg_SGP.png) |   
+| Coarse-graning of atomistic system: Bayesian model validation with quantified uncertainty  | Nonlocal continuum theory to capture size effect in plastic deformation of microscale thin metal film  | 
