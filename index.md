@@ -8,8 +8,9 @@ layout: default
     <img src="images/profile.jpg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> Danial Faghihi <br> Research Associate</p>
-<p> Center for Computational Oncology <br> (Director: T. Yankeelov) </p>
+<p> Danial Faghihi <br>
+<p>  Research Associate, Center for Computational Oncology
+<p>  Faculty, Biomedical Engineering Department
 <p> <a href="files/DanialFaghihi_cv.pdf">Curriculum vitae </a> </p>
 </div>
 </div>
