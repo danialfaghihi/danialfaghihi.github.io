@@ -3,19 +3,18 @@ title: Home
 layout: default
 ---
 
+
 <div id="twosided">
 <div id="left" style="float: left; max-width: 30%;border: 10px"> 
     <img src="images/profile.jpg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> Danial Faghihi <br>
-<p>  Research Associate, Center for Computational Oncology</p>
-<p>  Faculty, Biomedical Engineering Department</p>
+<p> Danial Faghihi</p>
+<p> Research Associate, <br> Center for Computational Oncology </p>
 <p> <a href="files/DanialFaghihi_cv.pdf">Curriculum vitae </a> </p>
 </div>
 </div>
 <div id="clearer" style="clear: both"> </div>
-
 
 
 I am a Research Associate at [The Institute for Computational Engineering and Sciences (ICES)](http://ices.utexas.edu/) and a faculty in the [Biomedical Engineering](https://www.bme.utexas.edu/) at [The University of Texas at Austin](http://utexas.edu/).<br>
