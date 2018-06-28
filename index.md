@@ -11,6 +11,7 @@ layout: default
 <p> Danial Faghihi <br>
 <p>  Research Associate, Center for Computational Oncology
 <p>  Faculty, Biomedical Engineering Department
+    </div>
 <p> <a href="files/DanialFaghihi_cv.pdf">Curriculum vitae </a> </p>
 </div>
 </div>
