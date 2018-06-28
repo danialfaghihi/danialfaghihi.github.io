@@ -11,6 +11,7 @@ layout: default
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
 <p> Danial Faghihi</p>
 <p> Research Associate, <br> Center for Computational Oncology </p>
+<p> Senior Lecturer, <br> Department of Biomedical Engineering </p>
 <p> <a href="files/DanialFaghihi_cv.pdf">Curriculum vitae </a> </p>
 </div>
 </div>
