@@ -9,13 +9,14 @@ layout: default
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
 <p> Danial Faghihi <br>
-<p>  Research Associate, Center for Computational Oncology
-<p>  Faculty, Biomedical Engineering Department
-    </div>
+<p>  Research Associate, Center for Computational Oncology</p>
+<p>  Faculty, Biomedical Engineering Department</p>
 <p> <a href="files/DanialFaghihi_cv.pdf">Curriculum vitae </a> </p>
 </div>
 </div>
 <div id="clearer" style="clear: both"> </div>
+
+
 
 I am a Research Associate at [The Institute for Computational Engineering and Sciences (ICES)](http://ices.utexas.edu/) and a faculty in the [Biomedical Engineering](https://www.bme.utexas.edu/) at [The University of Texas at Austin](http://utexas.edu/).<br>
 I am a member of the [Center for Computational Oncology]( http://cco.ices.utexas.edu) led by [Dr. Thomas E. Yankeelov]( http://cco.ices.utexas.edu/members/thomas-yankeelov/). My current research is focused on multiscale (subcell-tissue) modeling of tumor growth and computational frameworks for data-enabled predictive modeling with applications to multiphase materials deformation and biological growth.
