@@ -10,8 +10,9 @@ layout: default
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
 <p> Danial Faghihi</p>
-<p> Research Associate, <br> Center for Computational Oncology </p>
-<p> Senior Lecturer, <br> Department of Biomedical Engineering </p>
+<p> Research Associate, The Institute for Computational Engineering and Sciences </p>
+<p> Adjunct Faculty, Department of Biomedical Engineering </p>
+<p> The University of Texas at Austin </p>    
 <p> <a href="files/DanialFaghihi_cv.pdf">Curriculum vitae </a> </p>
 </div>
 </div>
